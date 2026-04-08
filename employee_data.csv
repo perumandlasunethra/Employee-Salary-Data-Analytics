@@ -1,0 +1,71 @@
+EmployeeID,Department,JobRole,Experience,Education,Salary
+E001,IT,Developer,2,Bachelors,35000
+E002,HR,HR Executive,3,Masters,30000
+E003,Finance,Accountant,4,Bachelors,40000
+E004,IT,Developer,5,Masters,55000
+E005,Sales,Sales Executive,2,Bachelors,32000
+E006,IT,Tester,3,Bachelors,38000
+E007,HR,Recruiter,4,Masters,42000
+E008,Finance,Analyst,6,Masters,60000
+E009,Sales,Manager,7,MBA,70000
+E010,IT,Developer,1,Bachelors,30000
+E011,HR,HR Executive,2,Bachelors,28000
+E012,Finance,Accountant,3,Bachelors,36000
+E013,Sales,Executive,5,Masters,50000
+E014,IT,Tester,4,Bachelors,42000
+E015,IT,Developer,6,Masters,65000
+E016,HR,Manager,7,MBA,68000
+E017,Finance,Analyst,5,Masters,52000
+E018,Sales,Executive,3,Bachelors,34000
+E019,IT,Developer,8,MBA,75000
+E020,Finance,Manager,9,MBA,80000
+E021,HR,Recruiter,2,Bachelors,31000
+E022,Sales,Executive,4,Masters,45000
+E023,IT,Tester,3,Bachelors,39000
+E024,Finance,Accountant,2,Bachelors,33000
+E025,IT,Developer,7,Masters,70000
+E026,HR,HR Executive,5,Masters,50000
+E027,Sales,Manager,6,MBA,65000
+E028,Finance,Analyst,4,Masters,48000
+E029,IT,Developer,3,Bachelors,40000
+E030,HR,Recruiter,1,Bachelors,27000
+E031,Sales,Executive,2,Bachelors,32000
+E032,IT,Tester,5,Masters,50000
+E033,Finance,Accountant,6,Masters,58000
+E034,IT,Developer,4,Masters,52000
+E035,HR,Manager,8,MBA,75000
+E036,Sales,Executive,3,Bachelors,35000
+E037,Finance,Analyst,7,MBA,72000
+E038,IT,Developer,2,Bachelors,36000
+E039,HR,HR Executive,4,Masters,43000
+E040,Sales,Manager,9,MBA,85000
+E041,Finance,Accountant,3,Bachelors,37000
+E042,IT,Tester,6,Masters,58000
+E043,HR,Recruiter,5,Masters,48000
+E044,Sales,Executive,4,Bachelors,42000
+E045,Finance,Analyst,2,Bachelors,35000
+E046,IT,Developer,7,MBA,72000
+E047,HR,Manager,6,MBA,69000
+E048,Sales,Executive,5,Masters,51000
+E049,Finance,Accountant,8,MBA,78000
+E050,IT,Tester,3,Bachelors,40000
+E051,HR,HR Executive,2,Bachelors,30000
+E052,Sales,Manager,7,MBA,74000
+E053,Finance,Analyst,6,Masters,62000
+E054,IT,Developer,5,Masters,60000
+E055,HR,Recruiter,4,Masters,44000
+E056,Sales,Executive,3,Bachelors,36000
+E057,Finance,Accountant,7,MBA,71000
+E058,IT,Tester,2,Bachelors,35000
+E059,HR,Manager,9,MBA,82000
+E060,Sales,Executive,6,Masters,58000
+E061,Finance,Analyst,5,Masters,54000
+E062,IT,Developer,4,Bachelors,50000
+E063,HR,HR Executive,3,Bachelors,35000
+E064,Sales,Manager,8,MBA,78000
+E065,Finance,Accountant,6,Masters,62000
+E066,IT,Tester,5,Masters,52000
+E067,HR,Recruiter,2,Bachelors,31000
+E068,Sales,Executive,4,Masters,46000
+E069,Finance,Analyst,7,MBA,73000
+E070,IT,Developer,9,MBA,85000
