@@ -1,0 +1,3 @@
+Employee ID: E040
+Department: Sales
+Salary: 85000
